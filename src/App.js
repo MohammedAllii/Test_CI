@@ -6,6 +6,9 @@ function App() {
     <div className="App">
       Continuous Integration
     </div>
+    <div>
+      
+    </div>
   );
 }
 
